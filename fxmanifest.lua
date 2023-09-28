@@ -1,6 +1,6 @@
 fx_version 'bodacious'
 game 'gta5'
-//* Autor: Farex[Sokac Dev]
+// Autor: Farex[Sokac Dev]
 version '1.0.0'
 
 files {
